@@ -68,7 +68,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Welcome to Tugas 6 PBKK</h1>
+	<h1>Welcome to Hello World</h1>
 
 	<div id="body">
 	<h2>Deskripsi</h2>
