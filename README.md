@@ -1,4 +1,4 @@
-TUGAS 6 PBBK D : Membuat Router dan Controller dengan Framework CI
+TUGAS 5 & 6 PBBK : Membuat 'Hello World', Router dan Controller dengan Framework CI
 
 Rahmat Faris Akbar / 5025201003
 
